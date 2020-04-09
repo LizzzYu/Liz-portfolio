@@ -51,6 +51,7 @@ h5{
 
 .wrapper{
 	position: relative;
+    overflow: hidden;
 }
 
 .wrapper ul{
